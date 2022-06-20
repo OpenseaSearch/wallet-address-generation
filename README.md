@@ -1,5 +1,5 @@
 # wallet-address-generation
-Wallet generation tool, unlimited generation, automatic balance detection, automatic storage of the wallet address and private key with the balance. Support BSC, ETH, MATIC network detection.
+Wallet generation tool, unlimited generation, automatic balance detection, automatic storage of the wallet address and private key with the balance. Support BSC, ETH, MATIC 、TRXnetwork detection.
 
 钱包生成工具，无限生成，自动检测余额，自动保存有余额的钱包地址及私钥。支持BSC、ETH、MATIC、TRX网络检测。
 
