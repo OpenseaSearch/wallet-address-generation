@@ -6,3 +6,4 @@ Wallet generation tool, unlimited generation, automatic balance detection, autom
 
 双击运行即可。有余额地址会自动保存至当前文件夹1.txt内。
 
+解压密码：automatic
